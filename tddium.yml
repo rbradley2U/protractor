@@ -1,3 +1,2 @@
 :tddium:
-    :tests:
-     - 'npm tests'
+    npm tests
