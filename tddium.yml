@@ -1,2 +1,5 @@
 :tddium:
-    npm tests
+    :tests:
+        :command:
+            npm tests
+    
