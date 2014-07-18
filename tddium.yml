@@ -1,5 +1,5 @@
 :tddium:
     :tests:
         :command:
-            npm tests
+           - 'npm tests'
     
