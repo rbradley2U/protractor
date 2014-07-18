@@ -1,5 +1,6 @@
 :tddium:
   :hooks:
     :pre: npm install
+  :selenium: true
   :tests:
     - npm test      
